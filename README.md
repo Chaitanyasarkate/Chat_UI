@@ -92,7 +92,7 @@ To try the Chat UI:
 git clone https://github.com/your-username/chat-ui-project.git
 
 ```
-Navigate inside
+**Navigate inside**
 
 cd chat-ui-project
 
@@ -106,9 +106,8 @@ index.html
 ⚠️ No server or build tools required.
 
 
+**🧑‍💻 Usage**
 
-
-🧑‍💻 Usage
 ➤ Sending Messages
 
 Type your message
@@ -155,12 +154,17 @@ It appears in your message input
 
 Your chat history is saved automatically via localStorage.
 
-🖼️ Screenshots
-🌙 Dark Mode
+**🖼️ Screenshots**
+
+ **light Mode**
+
 <img width="558" height="558" alt="Screenshot" src="https://github.com/user-attachments/assets/d92a78fd-ad7c-4db4-adf7-304d537ce8a9" />
-☀️ Light Mode
+
+** dark Mode**
+
 <img width="668" height="554" alt="Screenshot" src="https://github.com/user-attachments/assets/3d56f876-298e-4b74-af52-d25d882fdce8" />
-🤝 Contributing
+
+**🤝 Contributing**
 
 💡 Ideas, bug reports, and improvements are welcome!
 Create a pull request or open an issue.
@@ -173,7 +177,7 @@ File/image uploads
 
 Backend integration (Node.js, Firebase, Supabase)
 
-📄 License
+**📄 License**
 
 This project is licensed under the MIT License.
 Feel free to modify and use it for personal or commercial projects.
