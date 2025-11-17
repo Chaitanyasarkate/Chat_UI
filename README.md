@@ -83,15 +83,15 @@ To try the Chat UI:
 | **emoji-picker-element** | Emoji picker component (CDN) |
 
 ---
-
 ## 📦 Installation
 
 ### Clone the repository
+
 ```bash
+
 git clone https://github.com/your-username/chat-ui-project.git
 
-_ _ _
-
+```
 Navigate inside
 
 cd chat-ui-project
